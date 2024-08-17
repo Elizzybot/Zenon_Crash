@@ -103,7 +103,7 @@ Just type cd and the bot name
 Then type npm start
 It will come online
 
-`Please Zenon_Crash is not for fun, don't use it to harm innocent people`
+`Please no-name md is not for fun, don't use it to harm innocent people`
 
 
 ## Contributions
