@@ -4,32 +4,32 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "48459439078"
-global.ownername = "Toxxic Md"
-global.ytname = "Toxxic Md"
-global.socialm = "GitHub: Toxic1239"
+global.ownernomer = "2347038494997"
+global.ownername = "no-name tech"
+global.ytname = "no-name md"
+global.socialm = "GitHub: elizzybot"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '48459439078'  //creator number
-global.ownername = 'Toxxic Md' //owner name
-global.botname = 'ᴢᴇɴᴏɴ ᴍᴅ' //name of the bot
+global.ownernumber = '2347038494997'  //creator number
+global.ownername = 'no-name tech' //owner name
+global.botname = 'no-name md' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ZENON\n\nContact: 48459439078'
+global.author = 'ZENON\n\nContact: 2347038494997'
 
 //console view/theme
 global.themeemoji = '💀'
-global.wm = "Toxxic Tech."
+global.wm = "no-name tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U'
+global.link = 'https://whatsapp.com/channel/0029Vae26R7EFeXfbF5Rd72B'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
