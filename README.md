@@ -1,4 +1,4 @@
-<h1 align="center"> ZENON CRASH </h1>
+<h1 align="center"> no-name md</h1>
 <p align="center">  
   
 ***
@@ -8,7 +8,7 @@
     <a href="https://ibb.co/4dZX3XG"><img src="https://i.ibb.co/6BRTLTx/thumb.jpg" alt="thumb" border="0"></a>
 <p align="center">
 <p align="center">
-<a href="https://github.com/elizzybot/Zenon_Crash"><img title="Author" src="https://img.shields.io/badge/ZenonCrash?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/elizzybot/Zenon_Crash"><img title="Author" src="https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/plugins/anticall.js"></a>
 <p align="center">
 <a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Zenon_Crash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Zenon_Crash-Star?color=red&style=flat-square"></a>
