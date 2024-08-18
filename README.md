@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ; no-name-md+CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ; no-name-md+CRASH;WHATSAPP+BUG+BOT;CREATED+BY+no-name+tech;RELEASED+18-08-24" alt="Typing SVG" /></a>
   </p>
     <a href="https://ibb.co/4dZX3XG"><img src="https://telegra.ph/file/dc401d2c40b761b6c8e10.jpg" alt="thumb" border="0"></a>
 <p align="center">
@@ -108,18 +108,18 @@ It will come online
 
 ## Contributions
 
-Contributions to Zenon_Crash are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to no-name md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
-   **Xeon** who made the base bot <br>
+   **no-name tech** who made the base bot <br>
 
 
 ## License
 
-The WhatsApp Bot Zenon_Crash is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot no-name md is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Toxxic Md to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot no-name md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
