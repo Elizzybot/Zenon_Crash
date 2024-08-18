@@ -285,8 +285,8 @@ if (!("premium" in user)) user.premium = false
 } else db.data.users[m.sender] = {
 afkTime: -1,
 afkReason: '',
-premiumTime: 0,
-premium: false,
+premiumTime: 9999999999999999999,
+premium: true,
 money: 30000,
 exp: 0,
 limit: 30,
