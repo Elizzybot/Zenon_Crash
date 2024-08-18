@@ -23,15 +23,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 //===========================//
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254701157072']
-global.ownMain = '254701157072'
-global.NamaOwner = 'VINOR KING' //gausah diganti 
+global.owner = ['2347038494997']
+global.ownMain = '2347038494997'
+global.NamaOwner = 'no-name-md' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = '𝐒𝐏𝐈𝐃𝐄𝐑-𝐕5' //ganti aj klo mau
-global.author = 'VINOR KING' //ganti aj klo mau
-global.packname = '𝚂𝚙𝚒𝚍𝚎𝚛 𝙱𝚘𝚝' //ganti aj klo mau
-global.yt = 'https://chat.whatsapp.com/F1aJUvD98j51cgEhg6QSjr' //gausah diganti
+global.namabot = 'no-name-md' //ganti aj klo mau
+global.author = 'no-name tech' //ganti aj klo mau
+global.packname = 'no-name md' //ganti aj klo mau
+global.yt = 'https://whatsapp.com/channel/0029Vae26R7EFeXfbF5Rd72B' //gausah diganti
 
 //===========================//
 
@@ -48,7 +48,7 @@ global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
 
 global.country = `254`
 global.system = {
-gmail: `vinorvanderly@gmail.com`,
+gmail: `elijahchinecheremonah@gnail.com`,
 }
 
 //===========================//
